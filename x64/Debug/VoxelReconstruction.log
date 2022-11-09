@@ -1,0 +1,23 @@
+﻿  arcball.cpp
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(58,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(67,36): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(94,21): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(96,12): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(188,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(208,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(259,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(286,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\arcball.cpp(287,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Camera.cpp
+  Glut.cpp
+  Reconstructor.cpp
+  Scene3DRenderer.cpp
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(228,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(232,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(237,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(240,27): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  main.cpp
+  General.cpp
+  VoxelReconstruction.cpp
+  Generating Code...
+  VoxelReconstruction.vcxproj -> S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment2\VoxelReconstruction\x64\Debug\VoxelReconstruction.exe
