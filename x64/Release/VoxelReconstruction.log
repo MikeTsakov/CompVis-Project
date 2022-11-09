@@ -1,0 +1,80 @@
+﻿  VoxelReconstruction.cpp
+  Camera.cpp
+  Glut.cpp
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(908): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(907): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(906): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(929): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(928): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(927): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(937): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(938): warning C4244: 'argument': conversion from '_Tp' to 'GLfloat', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(1081): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\glut.cpp(1082): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Reconstructor.cpp
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(217): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(274): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(665): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(737): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(746): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(759): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(759): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(760): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(760): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(764): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(772): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(773): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+s:\projects\github_profile\computer_vision_project\old\assignment3\voxelreconstruction\src\controllers\reconstructor.cpp(778): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Scene3DRenderer.cpp
+  main.cpp
+  General.cpp
+  Generating code
+  157 of 2412 functions ( 6.5%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    129 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VoxelReconstruction.vcxproj -> S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\x64\Release\VoxelReconstruction.exe

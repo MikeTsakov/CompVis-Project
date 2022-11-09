@@ -1,0 +1,6 @@
+﻿  Scene3DRenderer.cpp
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(232,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(236,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(241,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\src\controllers\Scene3DRenderer.cpp(244,27): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  VoxelReconstruction.vcxproj -> S:\Projects\GitHub_Profile\Computer_Vision_Project\old\assignment3\VoxelReconstruction\x64\Debug\VoxelReconstruction.exe
